@@ -1,2 +1,2 @@
-# supreme-invention
+# Title goes here
 Test Github Pages
